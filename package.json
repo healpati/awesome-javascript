@@ -1,0 +1,11 @@
+{
+  "name": "awesome-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/healpati/awesome-javascript",
+  "author": "healpati <healpati@daum.net>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.4.1"
+  }
+}
